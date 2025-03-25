@@ -186,9 +186,11 @@ src/gz openwrt_telephony https://vercel.catwrt.eu.org/history/v22.2/x86_64/telep
 
 ## 如何部署 CatWrt
 
-[访问 CatWrt 发布博客](https://www.miaoer.net/posts/network/catwrt) | [Github Release](https://github.com/miaoermua/CatWrt/releases) | [1Panel 中跑 CatWrt 旁路网关 Docker 版 OpenWrt](https://www.miaoer.net/posts/network/1panel-deploy-catwrt-rootfs)
+- [访问 CatWrt 发布博客](https://www.miaoer.net/posts/network/catwrt)
+- [Github Release](https://github.com/miaoermua/CatWrt/releases)
+- [1Panel 中跑 CatWrt 旁路网关 Docker 版 OpenWrt](https://www.miaoer.net/posts/network/1panel-deploy-catwrt-rootfs)
 
-更多教程实用小技巧，请关注博客: [喵二の小博客](https://www.miaoer.net)
+更多 CatWrt 教程实用小技巧，请关注博客: [喵二の小博客](https://www.miaoer.net)
 
 ## 部署软件源
 
