@@ -12,11 +12,16 @@
 
 [安装应用](https://www.miaoer.net/posts/network/catwrt-install-application) | [CatWrt 博客](https://www.miaoer.net/posts/network/catwrt) | [❤️ 支持喵二](https://www.miaoer.net/sponsor)
 
-[![](https://img.shields.io/badge/blog-@CatWrt.svg)](https://www.miaoer.net/network/catwrt)
+<!---  [![](https://img.shields.io/badge/blog-@CatWrt.svg)](https://www.miaoer.net/network/catwrt)  --->
+
 [![](https://img.shields.io/github/v/release/miaoermua/CatWrt)](https://github.com/miaoermua/CatWrt/releases)
 [![](https://img.shields.io/docker/stars/miaoer/catwrt-repo)](https://hub.docker.com/r/miaoer/catwrt-repo)
 [![](https://img.shields.io/docker/image-size/miaoer/catwrt-repo)](https://hub.docker.com/r/miaoer/catwrt-repo)
-[![](https://img.shields.io/github/last-commit/tensorflow/tensorflow.svg)](https://github.com/miaoermua/CatWrt/commits/main)
+
+[![Stars](https://m3-markdown-badges.vercel.app/stars/3/3/miaoermua/CatWrt)](https://github.com/miaoermua/CatWrt)
+[![Issues](https://m3-markdown-badges.vercel.app/issues/1/2/miaoermua/CatWrt)](https://github.com/miaoermua/CatWrt/issues)
+[![Support](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor1.svg)](https://www.miaoer.net/sponsor)
+[![COPYING](https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv2/licencegplv23.svg)](https://github.com/miaoermua/CatWrt/blob/main/COPYING)
 
 </div>
 
