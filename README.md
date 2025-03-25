@@ -27,7 +27,8 @@
 
 ***
 
-🐧 欢迎来到 CatWrt 仓库，这里是软件源 Repo 发行版仓库。仅存二级制文件，源码请转到 [miaoermua/LEDE](https://github.com/miaoermua/lede) & [miaoermua/catwrt_base](https://github.com/miaoermua/catwrt_base) 审查源代码。
+🐧 CatWrt 仓库是软件源 Repo 发行版仓库,仅存二级制文件。
+源码请转到 [miaoermua/LEDE](https://github.com/miaoermua/lede) & [miaoermua/catwrt_base](https://github.com/miaoermua/catwrt_base) 审查源代码和编译详情。
 
 ## 项目
 
