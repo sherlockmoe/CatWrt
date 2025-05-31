@@ -1,3 +1,4 @@
 
 *.db
-*.bin
+!Packages.*
+**/{openwrt*,lede*,LEDE*,CatWrt*,immortalwrt*}.{tar.gz,gz,img,bin}
