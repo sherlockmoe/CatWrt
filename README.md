@@ -226,3 +226,5 @@ $ docker run -d -p 1480:80 miaoer/catwrt-repo:latest
 欢迎预览 [博客](https://www.miaoer.net) 多多评论交流，欢迎使用后留下你的评论和 Star！
 
 i18n: [EN](https://github.com/miaoermua/CatWrt/blob/main/README_EN.md)
+
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
